@@ -1,0 +1,6 @@
+{
+  "name": "Quatro Patas",
+  "description": "Plataforma completa de proteção, resgate, cuidado, adoção responsável e arrecadação transparente para cães abandonados. Cada vida importa. Cada gesto transforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
